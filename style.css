@@ -1,0 +1,41 @@
+body{
+	background-color: #2ecc71;
+	font-family: sans-serif;
+}
+
+.container{
+	margin: auto;
+	padding: 0;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+}
+
+.title{
+	font-size: 50px;
+	color: white;
+}
+
+span{
+	color: white;
+	font-size: 35px;
+}
+
+p{
+	font-size: 35px;
+	color: white;
+}
+
+button{
+	size: 40px;
+	background: none;
+	border: none;
+	font-size: 30px;
+	color: white;
+}
+
+button:hover{
+	color: #27ae60;
+	cursor: pointer;
+	transition: 0.3s;
+}
